@@ -14,7 +14,7 @@ void main(){
 		{
 			printf("%d",j);
 		}
-		printf("\n ");
+		printf("\n "); // to print line
 
 
 	}
